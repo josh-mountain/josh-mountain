@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @josh-mountain
+- 👀 I’m interested in Cybersecurity and Cryptography.
+- 🌱 I’m currently learning about Cyber Security, Rust, Python, and Swift.
+- 💞️ I’m looking to collaborate on privacy orientated projects.
+- 📫 You can email me via a4hw0rcti@relay.firefox.com
